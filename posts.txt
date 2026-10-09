@@ -1,0 +1,3 @@
+# Extra LinkedIn post URLs to scrape, one per line (the profile page is checked automatically).
+# Use this if a monthly calendar post isn't picked up on its own.
+https://www.linkedin.com/feed/update/urn:li:activity:7511933917986291712/

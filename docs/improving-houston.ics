@@ -1,0 +1,254 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//improving-houston-events//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meetups at Improving Houston
+X-WR-TIMEZONE:America/Chicago
+X-PUBLISHED-TTL:PT12H
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+BEGIN:VEVENT
+UID:7511933917986291712-bad-movie-night@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261002T230000Z
+DTEND:20261003T010000Z
+SUMMARY:Bad Movie Night
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:Listed by Danyal Mahmud on LinkedIn. Calendar: https://buck.gi
+ thub.io/improving-houston-events/
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-code-4-y-all@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261006T000000Z
+DTEND:20261006T020000Z
+SUMMARY:Code 4 Y'all
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://lnkd.in/gu8_z4gN\nListed by Danyal Mahmud on LinkedIn.
+  Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://lnkd.in/gu8_z4gN
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-houston-open-source-society@improving-houston-even
+ ts
+DTSTAMP:20261009T042657Z
+DTSTART:20261007T230000Z
+DTEND:20261008T010000Z
+SUMMARY:Houston Open Source Society
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://lnkd.in/gBCDvpAN\nListed by Danyal Mahmud on LinkedIn.
+  Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://lnkd.in/gBCDvpAN
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-agile-hou-lean-beers@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Agile HOU - Lean Beers
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:SECOND THURSDAY - Agile HTX Connection: Lean Beers (October 20
+ 26)\nhttps://www.eventbrite.com/e/second-thursday-agile-htx-connection-le
+ an-beers-october-2026-tickets-1991951989021\nListed by Danyal Mahmud on L
+ inkedIn. Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.eventbrite.com/e/second-thursday-agile-htx-connection-lean
+ -beers-october-2026-tickets-1991951989021
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-side-project-society@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261008T230000Z
+DTEND:20261009T010000Z
+SUMMARY:Side Project Society
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.linkedin.com/events/7503880074497040385\nListed by
+  Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/improving-ho
+ uston-events/
+STATUS:CONFIRMED
+URL:https://www.linkedin.com/events/7503880074497040385
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-product-houston@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261010T140000Z
+DTEND:20261011T000000Z
+SUMMARY:CANCELLED: Product Houston
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:Wade Pinder's Product Management Class\nhttps://www.eventbrite
+ .com/e/2002591166086?aff=oddtdtcreator\nListed by Danyal Mahmud on Linked
+ In. Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CANCELLED
+URL:https://www.eventbrite.com/e/2002591166086?aff=oddtdtcreator
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-goals-alliance@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261013T230000Z
+DTEND:20261014T010000Z
+SUMMARY:Goals Alliance
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.linkedin.com/company/goalsalliance/posts/\nListed 
+ by Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/improving-
+ houston-events/
+STATUS:CONFIRMED
+URL:https://www.linkedin.com/company/goalsalliance/posts/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-houston-sales-community@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261014T000000Z
+DTEND:20261014T013000Z
+SUMMARY:Houston Sales Community
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:What Are You Selling: Product\, Solution\, or Vision?\nhttps:/
+ /luma.com/q27gdoyg\nListed by Danyal Mahmud on LinkedIn. Calendar: https:
+ //buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://luma.com/q27gdoyg
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-design-thinking-and-innovation@improving-houston-e
+ vents
+DTSTAMP:20261009T042657Z
+DTSTART:20261014T230000Z
+DTEND:20261015T010000Z
+SUMMARY:Design Thinking and Innovation
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.linkedin.com/events/7503580152199729152/\nListed b
+ y Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/improving-h
+ ouston-events/
+STATUS:CONFIRMED
+URL:https://www.linkedin.com/events/7503580152199729152/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-agile-leadership-network-houston@improving-houston
+ -events
+DTSTAMP:20261009T042657Z
+DTSTART:20261015T230000Z
+DTEND:20261016T010000Z
+SUMMARY:Agile Leadership Network Houston
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.eventbrite.com/o/agile-leadership-network-houston-
+ 106338193\nListed by Danyal Mahmud on LinkedIn. Calendar: https://buck.gi
+ thub.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.eventbrite.com/o/agile-leadership-network-houston-10633819
+ 3
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-houston-java-user-group@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261015T233000Z
+DTEND:20261016T013000Z
+SUMMARY:Houston Java User Group
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:Known and Unknowns: Testing AI Generated Code with Billy Koran
+ do\nhttps://www.eventbrite.com/e/known-and-unknowns-testing-ai-generated-
+ code-with-billy-korando-tickets-2002594230251\nListed by Danyal Mahmud on
+  LinkedIn. Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.eventbrite.com/e/known-and-unknowns-testing-ai-generated-c
+ ode-with-billy-korando-tickets-2002594230251
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-pyhou@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261020T230000Z
+DTEND:20261021T010000Z
+SUMMARY:PyHou
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:Objects All the Way Down: The Missing Python Engine for Vibe C
+ omputing\nhttps://www.meetup.com/python-14/\nListed by Danyal Mahmud on L
+ inkedIn. Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.meetup.com/python-14/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-houston-business-analysts-houba@improving-houston-
+ events
+DTSTAMP:20261009T042657Z
+DTSTART:20261021T230000Z
+DTEND:20261022T010000Z
+SUMMARY:Houston Business Analysts (HOUBA)
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.linkedin.com/company/houston-business-analysts/\nL
+ isted by Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/impr
+ oving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.linkedin.com/company/houston-business-analysts/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-product-camp-houston@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261024T140000Z
+DTEND:20261024T160000Z
+SUMMARY:Product Camp Houston
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:PCH 2\nhttps://www.houstonproductcamp.com/events-1/pch-2\nList
+ ed by Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/improvi
+ ng-houston-events/
+STATUS:CONFIRMED
+URL:https://www.houstonproductcamp.com/events-1/pch-2
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-cloud-native-houston@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261026T230000Z
+DTEND:20261027T010000Z
+SUMMARY:Cloud Native Houston
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:https://www.linkedin.com/company/cloud-native-houston/home/\nL
+ isted by Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/impr
+ oving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.linkedin.com/company/cloud-native-houston/home/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-houston-aws-group@improving-houston-events
+DTSTAMP:20261009T042657Z
+DTSTART:20261027T230000Z
+DTEND:20261028T010000Z
+SUMMARY:Houston AWS Group
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:AWS Strands Hands-On Workshop led by AWS Employees\nhttps://ww
+ w.meetup.com/aws-houston/events/316642216/\nListed by Danyal Mahmud on Li
+ nkedIn. Calendar: https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://www.meetup.com/aws-houston/events/316642216/
+END:VEVENT
+BEGIN:VEVENT
+UID:7511933917986291712-the-houston-innovation-commons@improving-houston-e
+ vents
+DTSTAMP:20261009T042657Z
+DTSTART:20261029T230000Z
+DTEND:20261030T013000Z
+SUMMARY:The Houston Innovation Commons
+LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
+ 7042
+DESCRIPTION:State of the Commons 2026: HIC End-of-Year Gathering & Social\
+ nhttps://luma.com/s2p4w1of\nListed by Danyal Mahmud on LinkedIn. Calendar
+ : https://buck.github.io/improving-houston-events/
+STATUS:CONFIRMED
+URL:https://luma.com/s2p4w1of
+END:VEVENT
+END:VCALENDAR
