@@ -91,20 +91,6 @@ STATUS:CANCELLED
 URL:https://www.eventbrite.com/e/2002591166086?aff=oddtdtcreator
 END:VEVENT
 BEGIN:VEVENT
-UID:7511933917986291712-goals-alliance@improving-houston-events
-DTSTAMP:20261009T042657Z
-DTSTART:20261013T230000Z
-DTEND:20261014T010000Z
-SUMMARY:Goals Alliance
-LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
- 7042
-DESCRIPTION:https://www.linkedin.com/company/goalsalliance/posts/\nListed 
- by Danyal Mahmud on LinkedIn. Calendar: https://buck.github.io/improving-
- houston-events/
-STATUS:CONFIRMED
-URL:https://www.linkedin.com/company/goalsalliance/posts/
-END:VEVENT
-BEGIN:VEVENT
 UID:7511933917986291712-houston-sales-community@improving-houston-events
 DTSTAMP:20261009T042657Z
 DTSTART:20261014T000000Z
