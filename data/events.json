@@ -407,7 +407,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00"
+      "last_seen": "2026-11-07T13:15:03+00:00"
     },
     "7523526717362233344:houston-open-source-society": {
       "id": "7523526717362233344:houston-open-source-society",
@@ -421,7 +421,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://houstonopensourcesociety.com/meetings/wednesday/first/"
     },
     "7523526717362233344:side-project-society": {
@@ -436,7 +436,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.linkedin.com/events/7514049499107848195"
     },
     "7523526717362233344:bad-movie-night": {
@@ -451,7 +451,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00"
+      "last_seen": "2026-11-07T13:15:03+00:00"
     },
     "7523526717362233344:houston-sales-community": {
       "id": "7523526717362233344:houston-sales-community",
@@ -465,7 +465,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://luma.com/0wk8cgwi",
       "source": {
         "name": "How to Get Your First Customers?",
@@ -491,7 +491,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.meetup.com/dt-i-org/events/317210484/",
       "source": {
         "name": "History Rhymes: Why the AI wave Needs the Same Lesson as Lean, Agile, & PC",
@@ -517,7 +517,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.eventbrite.com/e/second-thursday-agile-htx-connection-lean-beers-november-2026-tickets-1991952015099",
       "source": {
         "name": "SECOND THURSDAY - Agile HTX Connection: Lean Beers (November 2026)",
@@ -543,7 +543,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://luma.com/xyr6rdt9",
       "source": {
         "name": "The Energy Nexus: Connecting Capital, Corporates, and Energy Tech",
@@ -571,7 +571,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.meetup.com/python-14/"
     },
     "7523526717362233344:houston-business-analysts-houbas": {
@@ -586,7 +586,7 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.linkedin.com/company/houston-business-analysts/"
     },
     "7523526717362233344:agile-leadership-network-houston": {
@@ -601,9 +601,9 @@
       "status": "scheduled",
       "first_seen": "2026-11-04T13:15:02+00:00",
       "history": [],
-      "last_seen": "2026-11-06T13:15:02+00:00",
+      "last_seen": "2026-11-07T13:15:03+00:00",
       "source_url": "https://www.eventbrite.com/o/agile-leadership-network-houston-106338193"
     }
   },
-  "updated": "2026-11-06T13:15:05+00:00"
+  "updated": "2026-11-07T13:15:06+00:00"
 }
