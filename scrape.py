@@ -135,8 +135,20 @@ def discover():
     if code != 200 or "authwall" in eff:
         log(f"warning: profile fetch failed ({code} {eff}); using known posts only")
     else:
+        # The profile also lists his reactions/reposts of other people's posts. Some of those
+        # get a URL in his own slug (e.g. "danyalmahmud_activity-<id>") but have no post page,
+        # so skip any card whose screen-reader label says it isn't his own post
+        # (his own posts are labeled "Danyal Mahmud shared this").
+        not_own = {
+            activity_id(href)
+            for href, label in re.findall(
+                r'<a class="base-card__full-link[^"]*"\s+href="([^"]+)"[^>]*>\s*'
+                r'<span class="sr-only">\s*(.*?)\s*</span>', page, re.S)
+            if re.search(r"\b(reacted|reposted|liked|commented|celebrate[sd]?|supports|loves|finds)\b",
+                         label, re.I)
+        }
         for u in re.findall(r'https://www\.linkedin\.com/posts/([^"?&\s]+)', page):
-            if u.startswith(AUTHOR_SLUG + "_") and (aid := activity_id(u)):
+            if u.startswith(AUTHOR_SLUG + "_") and (aid := activity_id(u)) and aid not in not_own:
                 found[aid] = "https://www.linkedin.com/posts/" + html.unescape(u)
         log(f"profile: {len(found)} posts by {AUTHOR_SLUG}")
     if MANUAL_POSTS.exists():
