@@ -354,16 +354,16 @@ URL:https://luma.com/xyr6rdt9
 END:VEVENT
 BEGIN:VEVENT
 UID:7523526717362233344-pyhou@improving-houston-events
-DTSTAMP:20261104T131502Z
+DTSTAMP:20261114T131503Z
 DTSTART:20261118T000000Z
 DTEND:20261118T020000Z
 SUMMARY:PyHou
 LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
  7042
-DESCRIPTION:PyTexas Monthly Meetup: Securing the AI Stack\nhttps://www.mee
- tup.com/python-14/\nCheck: event page says 2026-12-01\nListed by Danyal M
- ahmud on LinkedIn. Calendar: https://buck.github.io/improving-houston-eve
- nts/
+DESCRIPTION: Large Language Models Without Language - Using LLM Techniques
+  in Other Domains\nhttps://www.meetup.com/python-14/\nListed by Danyal Ma
+ hmud on LinkedIn. Calendar: https://buck.github.io/improving-houston-even
+ ts/
 STATUS:CONFIRMED
 URL:https://www.meetup.com/python-14/
 END:VEVENT
