@@ -382,20 +382,4 @@ DESCRIPTION:https://www.linkedin.com/company/houston-business-analysts/\nL
 STATUS:CONFIRMED
 URL:https://www.linkedin.com/company/houston-business-analysts/
 END:VEVENT
-BEGIN:VEVENT
-UID:7523526717362233344-agile-leadership-network-houston@improving-houston
- -events
-DTSTAMP:20261104T131502Z
-DTSTART:20261120T000000Z
-DTEND:20261120T020000Z
-SUMMARY:Agile Leadership Network Houston
-LOCATION:Improving Houston\, 10111 Richmond Ave Suite 100\, Houston\, TX 7
- 7042
-DESCRIPTION:https://www.eventbrite.com/o/agile-leadership-network-houston-
- 106338193\nListed by Danyal Mahmud on LinkedIn. Calendar: https://buck.gi
- thub.io/improving-houston-events/
-STATUS:CONFIRMED
-URL:https://www.eventbrite.com/o/agile-leadership-network-houston-10633819
- 3
-END:VEVENT
 END:VCALENDAR
